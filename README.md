@@ -5,7 +5,7 @@
 
 
 
-Projeto de desenvolvimento de uma tela para aplicação mobile desenvovildo em Flutter, utilizando como base um layout disponibilizado no desafio.
+Projeto de desenvolvimento de uma tela para aplicação mobile em Flutter, utilizando como base um layout disponibilizado no desafio.
 
 ## FUNCIONABILIDADE
 
