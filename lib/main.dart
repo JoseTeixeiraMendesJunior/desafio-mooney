@@ -32,10 +32,12 @@ class _MyAppState extends State<MyApp> {
           /// Global Custom Elevated Button;
           elevatedButtonTheme: ElevatedButtonThemeData(
               style: ElevatedButton.styleFrom(
-            padding: const EdgeInsets.symmetric(vertical: 16, horizontal: 20),
-            primary: GlobalColor.active,
-            textStyle: const TextStyle(fontSize: 20),
-          )),
+                  padding:
+                      const EdgeInsets.symmetric(vertical: 16, horizontal: 20),
+                  primary: GlobalColor.active,
+                  textStyle: const TextStyle(fontSize: 20),
+                  shape: RoundedRectangleBorder(
+                      borderRadius: BorderRadius.circular(18)))),
           textTheme:
               const TextTheme(bodyText2: TextStyle(color: Colors.white))),
 
